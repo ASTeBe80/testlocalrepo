@@ -5,4 +5,5 @@ int main(){
     cout<<"tmkoc"<<endl;
     cout<<"hihihaha";
     cout<<endl<<"newline";
+    cout<<endl<<"no";
 }
