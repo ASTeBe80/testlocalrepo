@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"tmkoc";
+    cout<<"tmkoc"<<endl;
+    cout<<"hihihaha";
 }
